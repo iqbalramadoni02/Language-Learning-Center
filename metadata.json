@@ -1,0 +1,6 @@
+{
+  "name": "Smart Class LMS",
+  "description": "Learning Management System (LMS) with syllabus integration, geolocation presence, kuis integrity logs, and AI auto-grading capabilities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
